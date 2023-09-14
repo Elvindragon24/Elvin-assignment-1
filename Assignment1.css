@@ -1,0 +1,49 @@
+body{
+   margin: 0px;
+}
+
+.background {
+    display: flex;
+    align-items: center;
+    
+}
+.button {
+    background-color: orangered;
+    color: white;
+    align-items: center;
+    text-align: center;
+    border-radius: 20px;
+    margin: 20px 0px;
+    padding: 8px 0px;
+    width: auto
+}
+.headline-1 {
+    font-size: 20px;
+}
+.headline-2{
+    font-size: 30px;
+}
+.headline-3{
+    text-align: center;
+    color: white;
+    margin: 160px;
+}
+.headline-4{
+    display: flex;
+    align-items: center;
+    margin-left: 160px;
+    color:white
+}
+.headline-5{
+    color:white;
+    display: inline-flex;
+    margin-left: 360px;
+}
+.headline-6{
+    color: white;
+    display: inline-flex;
+    text-align: justify;
+}
+a:visited {
+    Color: white;
+}
